@@ -1,4 +1,9 @@
-L"00古人谈读书",		L"孔子,朱熹"<br>	
+收集了从小学到高中的古诗词和文言文。
+[国家智慧教育公共服务平台](https://www.smartedu.cn/)
+[国家中小学智慧教育平台] (https://www.smartedu.cn/home/province?name=%E4%B8%AD%E5%B0%8F%E5%AD%A6)
+[国家高等教育智慧教育平台](https://higher.smartedu.cn/)
+
+	L"00古人谈读书",		L"孔子,朱熹"<br>	
 	L"01小学古诗词",		L"小学课文古诗词总汇共111首"<br>
 	L"02小学古文",			L"古文欣赏"<br>	
 	L"03毛泽东诗词",		L"伟人的诗词"<br>	
